@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Samir
 #### I am Game Developer
-![I am Game Developer](https://media.licdn.com/dms/image/D4E16AQGLXIRLbsjlZA/profile-displaybackgroundimage-shrink_350_1400/0/1692186614785?e=1697673600&v=beta&t=6AXOGnYdsi36JmqvTMwsiR0UjV9wl6Er7vEN5xHGwH4)
+![I am Game Developer](https://media.licdn.com/dms/image/D4E16AQGLXIRLbsjlZA/profile-displaybackgroundimage-shrink_350_1400/0/1692186615938?e=1710374400&v=beta&t=4tVFeQJov2KV5lJXwuaKiXiTyvn9aCvltgMjJ5sjhSQ)
 
 Welcome to my profile
 
